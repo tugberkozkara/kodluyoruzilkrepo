@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4fdce5f-995a-420b-948d-cb0eb92693c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/activityByTemperature/activityByTemperature.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atmProject/atmProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicCalculator/basicCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bodyMassIndex/bodyMassIndex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chineseZodiac/chineseZodiac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/circleSlice/circleSlice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/combination/combination.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downwardTriangle/downwardTriangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drawingDiamond/drawingDiamond.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ebobEkok/ebobEkok.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fibonacci/fibonacci.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flightTicket/flightTicket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradeCalculator/gradeCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greengrocerPrices/greengrocerPrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harmonicSeries/harmonicSeries.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/horoscope/horoscope.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kdvCalculator/kdvCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leapYear/leapYear.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maxAndMin/maxAndMin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meanOfThreeAndFour/meanOfThreeAndFour.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/perfectNumber/perfectNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/powersInForLoop/powersInForLoop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/powersOfFourAndFive/powersOfFourAndFive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeNumbers/primeNumbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortingThreeNums/sortingThreeNums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studentPassOrFail/studentPassOrFail.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfDigits/sumOfDigits.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumOfOdds/sumOfOdds.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/taximeter/taximeter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triangleArea/triangleArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userLogin/userLogin.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21e9WJiiaKgV1tLL3ikwb6jc7gb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4fdce5f-995a-420b-948d-cb0eb92693c1" name="Default Changelist" comment="" />
+      <created>1638290723591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638290723591</updated>
+    </task>
+    <servers />
+  </component>
+</project>
